@@ -53,7 +53,7 @@
     "@types/mongodb": "^3.1.14",
     "@types/node": "^11.11.3",
     "@types/nodemailer": "^4.6.6",
-    "ajv": "^6.5.5",
+    "ajv": "^6.12.3",
     "body-parser": "^1.18.3",
     "compression": "^1.7.3",
     "cookie-parser": "^1.4.3",
